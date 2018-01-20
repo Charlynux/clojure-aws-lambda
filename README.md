@@ -8,7 +8,7 @@ But I can't find a way to create the first sort of Lambda.
 
 I choose to create a simple "Event Lambda" and track there every step.
 
-## Installation awscli
+## Install awscli
 
 ### PIP
 
@@ -24,7 +24,7 @@ First you need to check, pip is installed (via `pip --version`). If not on MacOs
 
 In your .bash_profile, add the following line.
 
-`export PATH=$PATH:/Users/charles/Library/Python/2.7/bin`
+`export PATH=$PATH:$HOME/Library/Python/2.7/bin`
 
 ## Configure AWS
 
